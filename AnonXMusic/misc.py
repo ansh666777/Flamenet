@@ -5,7 +5,7 @@ import heroku3
 from pyrogram import filters
 
 import config
-from flamenet.core.mongo import mongodb
+from AnonXMusic.core.mongo import mongodb
 
 from .logging import LOGGER
 
